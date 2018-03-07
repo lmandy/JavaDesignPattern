@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDesignPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDesignPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDesignPattern_main.iml" group="JavaDesignPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDesignPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDesignPattern_test.iml" group="JavaDesignPattern" />
+    </modules>
+  </component>
+</project>
