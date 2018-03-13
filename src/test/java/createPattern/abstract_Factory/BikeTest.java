@@ -1,6 +1,4 @@
-package abstract_Factory;
-
-import static org.junit.Assert.*;
+package createPattern.abstract_Factory;
 
 /**
  * Created by lmandy on 2018/3/2.

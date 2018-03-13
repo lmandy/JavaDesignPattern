@@ -1,4 +1,4 @@
-package factory_Method;
+package createPattern.factory_Method;
 
 /**
  * Created by lmandy on 2018/3/2.

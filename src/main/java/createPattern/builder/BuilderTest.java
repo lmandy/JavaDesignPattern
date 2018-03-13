@@ -1,4 +1,4 @@
-package builder;
+package createPattern.builder;
 
 /**
  * Created by lmandy on 2018/3/5.
